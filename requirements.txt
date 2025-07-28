@@ -1,0 +1,2 @@
+dotenv
+azure-cognitiveservices-vision-customvision
