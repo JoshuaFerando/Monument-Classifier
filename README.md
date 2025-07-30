@@ -42,7 +42,7 @@ Built with Flask as the backend and integrated with Azure Custom Vision, the app
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/JoshuaFerando/Monument-Classifier
+git clone https://github.com/Joshua-Fernando/Monument-Classifier
 cd Monument-Classifier
 ```
 
